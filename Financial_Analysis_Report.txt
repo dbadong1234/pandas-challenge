@@ -1,0 +1,6 @@
+Top 3 Conclusions Based  Financial Analysis
+
+Based on this purchase analysis, it is difficult to draw many conclusions due to the lack of temporal information. It is unknown when this data was collected and what it will be used for. However, there are several findings based on gender and age that may be note-worthy. 
+First, popular items do not necessarily correlate with the most profitable items. For example, "Extraction, Quickblade of Trembling Hands" is the third most popular game, however, it does not rank within the top five most profitable games. 
+Second, those who self-identify as male make up the majority of players, therefore they also make the most purchases. 
+The third conclusion that can be made is that individuals who identified themselves in the 20-24 age category make up the majority of total players, therefore they also make the majority of purchases. 
